@@ -1,5 +1,5 @@
-#ifndef SMALLSH_H
-#define SMALLSH_H
+#ifndef shell_h
+#define shell_h
 
 #include <stdbool.h>
 #include <stdlib.h>

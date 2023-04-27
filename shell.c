@@ -1,4 +1,3 @@
-//I used this tutorial https://www.youtube.com/watch?v=0qSU0nxIZiE to help me create my function for replacing a substring
 #include "shell.h"
 
 //function descriptions are in smallsh.h
